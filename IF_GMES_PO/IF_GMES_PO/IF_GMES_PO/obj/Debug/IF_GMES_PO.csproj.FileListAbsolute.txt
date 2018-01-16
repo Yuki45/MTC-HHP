@@ -1,0 +1,10 @@
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\bin\Debug\IF_GMES_PO.exe.config
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\bin\Debug\IF_GMES_PO.exe
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\bin\Debug\IF_GMES_PO.pdb
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.csprojResolveAssemblyReference.cache
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.Form1.resources
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.Properties.Resources.resources
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.csproj.GenerateResource.Cache
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.exe
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.pdb
+D:\Gawean\HHP Project\IF\IF_GMES_PO\IF_GMES_PO\IF_GMES_PO\obj\Debug\IF_GMES_PO.sql.resources
